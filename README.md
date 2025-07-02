@@ -13,7 +13,6 @@
 🎓 I'm **Sharmin Jahan Badhan**, a Master's graduate in Computer Science (Data Science)  
 💡 Passionate about **Deep Learning**, **NLP**, **Computer Vision**, and **Symbolic AI**  
 🧠 Exploring **LLMs**, **zero-shot learning**, and **multimodal models**  
-📍 Currently based in Massachusetts, USA
 
 ---
 
@@ -33,7 +32,7 @@
 - **AI in Construction Safety** – *Submitted to Building (2025)*
 - **Script-Based Inference with Image Schemas** – *ISD9 2025 (submitted)*
 
-📄 [Google Scholar Profile](https://scholar.google.com/citations?user=leoVUAwAAAAJ&hl=en)
+
 
 ---
 
@@ -50,9 +49,10 @@
 ### 🛠️ Tools & Skills
 
 **Languages**: Python, Java, R, Common Lisp  
-**Libraries**: PyTorch, TensorFlow, Keras, OpenCV, Scikit-learn, Numpy, Pandas, Matplotlib  
+**Libraries**: PyTorch, TensorFlow, Keras
+**Python Packages**: OpenCV, Pandas, Numpy, Scipy, Matplotlib, Jupyter, Seaborn, Scikit-learn
 **Concepts**: NLP, Sentiment Analysis, Zero-Shot Learning, VQA  
-**Others**: Git, LaTeX, Weka, Jupyter, Data Mining
+**Others**: Git, LaTeX, Weka
 
 ---
 
@@ -75,22 +75,13 @@
 ### 📫 Contact Me
 
 - ✉️ [sharminbadhan79@gmail.com](mailto:sharminbadhan79@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📍 Sunderland, Massachusetts, USA
+- 🌐 [LinkedIn](https://www.linkedin.com/in/[Python Packages OpenCV, Pandas, Numpy, Scipy, Matplotlib, Jupyter, Seaborn, Scikit-learn](https://www.linkedin.com/in/sharmin-badhan-32a268220/))
+- Massachusetts, USA
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SharminBadhan&show_icons=true&theme=default" alt="Sharmin's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SharminBadhan&theme=default" alt="Sharmin's streak stats" />
-</p>
-
----
 
 ### 💡 Fun Fact
 
-I love working on AI models that combine **human-like reasoning** with modern deep learning!
+ I love hiking when I get free time 
 
