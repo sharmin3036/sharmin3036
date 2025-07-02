@@ -48,10 +48,10 @@
 
 ### 🛠️ Tools & Skills
 
--**Languages**: Python, Java, R, Common Lisp  
--**Libraries**: PyTorch, TensorFlow, Keras
--**Python Packages**: OpenCV, Pandas, Numpy, Scipy, Matplotlib, Jupyter, Seaborn, Scikit-learn
--**Others**: Git, LaTeX, Weka
+- **Languages**: Python, Java, R, Common Lisp  
+- **Libraries**: PyTorch, TensorFlow, Keras
+- **Python Packages**: OpenCV, Pandas, Numpy, Scipy, Matplotlib, Jupyter, Seaborn, Scikit-learn
+- **Others**: Git, LaTeX, Weka
 
 ---
 
