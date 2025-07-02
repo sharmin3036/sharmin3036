@@ -51,7 +51,6 @@
 **Languages**: Python, Java, R, Common Lisp  
 **Libraries**: PyTorch, TensorFlow, Keras
 **Python Packages**: OpenCV, Pandas, Numpy, Scipy, Matplotlib, Jupyter, Seaborn, Scikit-learn
-**Concepts**: NLP, Sentiment Analysis, Zero-Shot Learning, VQA  
 **Others**: Git, LaTeX, Weka
 
 ---
