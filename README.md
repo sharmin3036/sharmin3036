@@ -29,7 +29,7 @@
 
 - **CLIP for Hazard Detection** – I3CE 2025 *(accepted)*
 - **Student Feedback Analysis using NLP** – ASEE 2025 *(accepted)*
-- **AI in Construction Safety** – *Submitted to Building (2025)*
+- **AI in Construction Safety** – *Submitted to Buildings (2025)*
 - **Script-Based Inference with Image Schemas** – *ISD9 2025 (submitted)*
 
 
