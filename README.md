@@ -75,7 +75,7 @@
 ### 📫 Contact Me
 
 - ✉️ [sharminbadhan79@gmail.com](mailto:sharminbadhan79@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/[Python Packages OpenCV, Pandas, Numpy, Scipy, Matplotlib, Jupyter, Seaborn, Scikit-learn](https://www.linkedin.com/in/sharmin-badhan-32a268220/))
+- 🌐 [LinkedIn](https://www.linkedin.com/in/(https://www.linkedin.com/in/sharmin-badhan-32a268220/))
 - Massachusetts, USA
 
 ---
