@@ -1,4 +1,8 @@
-<h1 align="center">Hi there, I'm Sharmin 👋</h1>
+<h1 align="center"># Hi, I'm Sharmin Jahan Badhan 👋
+📍 Graduate Researcher | Deep Learning • NLP • Computer Vision  
+🎓 M.Sc. in Computer Science and Engineering (Data Science) – UIU (GPA: 3.86/4.0)  
+📧 sharminbadhan79@gmail.com | 🌐 [LinkedIn]([your-link](https://www.linkedin.com/in/sharmin-badhan-32a268220/))   
+ 👋</h1>
 
 > “The best way to predict the future is to invent it.” – Alan Kay
 
