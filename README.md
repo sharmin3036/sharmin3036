@@ -1,4 +1,4 @@
-<h1 align="center"># Hi, I'm Sharmin  
+<h1 align="center"> Hi, I'm Sharmin  
  👋</h1>
 
 > “The best way to predict the future is to invent it.” – Alan Kay
