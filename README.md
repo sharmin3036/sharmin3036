@@ -28,7 +28,6 @@
 
 ### 📚 Notable Publications
 
-## 📚 Publications
 
 - Hazard Detection on Construction Sites with CLIP (ASCE I3CE 2025, accepted) 
 - Student Feedback Analysis with NLP & Sentiment Analysis (ASEE 2025)   
