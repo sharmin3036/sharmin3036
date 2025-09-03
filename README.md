@@ -28,10 +28,15 @@
 
 ### 📚 Notable Publications
 
-- **CLIP for Hazard Detection** – I3CE 2025 *(accepted)*
-- **Student Feedback Analysis using NLP** – ASEE 2025 *(accepted)*
-- **AI in Construction Safety** – *Submitted to Buildings (2025)*
-- **Script-Based Inference with Image Schemas** – *ISD9 2025 (submitted)*
+## 📚 Publications
+
+- Hazard Detection on Construction Sites with CLIP (ASCE I3CE 2025, accepted) 
+- Student Feedback Analysis with NLP & Sentiment Analysis (ASEE 2025)   
+- AI in Construction Safety: Systematic Review (Buildings 2025, submitted)  
+- Script-based Inferences in Story Understander (ISD9 2025, accepted)
+- Conceptual Primitive Decompositions of the Sally-Anne Test (AAAI Fall Symposium 2025, accepted) 
+- Restaurant Script & Hierarchical Planning (Advances in Cognitive Systems 2025, submitted) 
+
 
 
 
