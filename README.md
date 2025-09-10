@@ -29,22 +29,20 @@
 ### 📚 Notable Publications
 
 
-• Reihaneh Samsami, Sharmin Badhan, “Automated Hazard Detection on Construction Sites Using
+- Reihaneh Samsami, Sharmin Badhan, “Automated Hazard Detection on Construction Sites Using
 Contrastive Language–Image Pre-training (CLIP): A Zero-Shot Learning Approach with Human-
 Centric Evaluation” Proceedings of the 2025 ASCE International Conference on Computing in Civil
 Engineering (I3CE), accepted for publication, 2025.
-• Sharmin Jahan Badhan, Reihaneh Samsami, Goli Nossoni, “Student Feedback Analysis Using Natural
-Language Processing (NLP) and Sentiment Analysis” Proceedings of the 2025 ASEE Annual Conference
-& Exposition, Montreal, Quebec, Canada. 
-• Sharmin Badhan, Reihaneh Samsami, “Artificial Intelligence (AI) in Construction Safety: A Systematic
+- Sharmin Jahan Badhan, Reihaneh Samsami, Goli Nossoni, “Student Feedback Analysis Using Natural
+Language Processing (NLP) and Sentiment Analysis” Paper presented at 2025 ASEE Annual Conference & Exposition , Montreal, Quebec, Canada . 10.18260/1-2--56002    [DOI](https://peer.asee.org/56002)
+- Sharmin Badhan, Reihaneh Samsami, “Artificial Intelligence (AI) in Construction Safety: A Systematic
 Literature Review” submitted to Buildings 2025. 
-• Jamie C. Macbeth, Boming Tony Zhang, Sharmin Badhan, “Script-based Inferences in an Image
-Schema Story Understander” Proceedings of The Ninth Image Schema Day (ISD9), accepted for publication,
-2025. 
-• Jamie C. Macbeth, Boming Tony Zhang, Sharmin Badhan, “Conceptual Primitive Decompositions
+- Jamie C. Macbeth, Boming Tony Zhang, Sharmin Badhan, “Script-based Inferences in an Image
+Schema Story Understander” Proceedings of The Ninth Image Schema Day (ISD9), accepted for publication, 2025. 
+- Jamie C. Macbeth, Boming Tony Zhang, Sharmin Badhan, “Conceptual Primitive Decompositions
 of the Sally-Anne Test” Proceedings of the third annual UR-RAD as a part of the 2025 AAAI Fall
 Symposium Series, accepted for publication, 2025. 
-• Jamie Macbeth, Mark Roberts, Boming Zhang, Sharmin Badhan, Molly Neu, Tanush, Mackie Zhou,
+- Jamie Macbeth, Mark Roberts, Boming Zhang, Sharmin Badhan, Molly Neu, Tanush, Mackie Zhou,
 Yining Hua, Manushaqe Muco,“A View of the Restaurant Script Through the Lens of Hierarchical
 Planning” submitted to 12th Annual Conference on Advances in Cognitive Systems.
 
