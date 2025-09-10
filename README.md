@@ -26,7 +26,7 @@
 
 ---
 
-### 📚 Notable Publications
+### 📚 Publications
 
 - Reihaneh Samsami, Sharmin Badhan, “Automated Hazard Detection on Construction Sites Using Contrastive Language–Image Pre-training (CLIP): A Zero-Shot Learning Approach with Human-Centric Evaluation” Proceedings of the 2025 ASCE International Conference on Computing in Civil Engineering (I3CE), accepted for publication, 2025.
 - Sharmin Jahan Badhan, Reihaneh Samsami, Goli Nossoni, “Student Feedback Analysis Using Natural Language Processing (NLP) and Sentiment Analysis” Paper presented at 2025 ASEE Annual Conference & Exposition , Montreal, Quebec, Canada . 10.18260/1-2--56002    [DOI](https://peer.asee.org/56002)
